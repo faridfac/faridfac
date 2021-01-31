@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hi there 👋 , I'm Farid!
+Currently I'm content writer and am deepening the web development.
 
-<!--
-**faridfac/faridfac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Tools:
+<p>
+    <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
+    <img src="https://gpvc.arturio.dev/faridfac" />
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Let's connect!
+<p>
+    <a href="https://mbahtekno.net" target="blank"><img src="https://img.shields.io/badge/Website-https://mbahtekno.net-green?" /></a>
+    <a href="https://www.facebook.com/faridfac" target="blank"><img src="https://img.shields.io/badge/Muhamad%20Farid-30302f?style=flat&logo=facebook" /></a>
+    <a href="https://https://twitter.com/faridfac10_" target="blank"><img src="https://img.shields.io/badge/@faridfac10_-30302f?style=flat&logo=twitter" /></a>
+</p>
